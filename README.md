@@ -36,6 +36,19 @@
 </p>
 <br>
 
+<h3 align="center">Check my latest Repos</h3>
+<p align="center">
+   <a href="https://github.com/manishjha5410/toast" target="_blank">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=manishjha5410&repo=toast&show_owner=true&theme=midnight-purple" alt="Toast" />
+   </a>
+</p>
+<p align="center">
+   <a href="https://github.com/manishjha5410/Free-Google-Translate" target="_blank">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=manishjha5410&repo=Free-Google-Translate&show_owner=true&theme=synthwave" alt="Free Google Translate" />
+   </a>
+</p>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.codechef.com/users/manishjha123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Manish Jha" height="30" width="40" /></a>
