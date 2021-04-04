@@ -25,9 +25,9 @@
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](https://www.postman.com/)&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](https://www.cplusplus.com/)&nbsp;
 [![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)](https://sass-lang.com/)&nbsp;
-[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org/en/)&nbsp;
+[![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)](https://nodejs.org/en/)&nbsp;
 [![Mongo Db](https://img.shields.io/badge/-Mongo%20Db-05122A?style=flat&logo=mongodb)](https://www.mongodb.com/)&nbsp;
-[![React](https://img.shields.io/badge/-React-000?&logo=React)](https://reactjs.org/)&nbsp;
+[![React](https://img.shields.io/badge/-React-05122A?&logo=React)](https://reactjs.org/)&nbsp;
 [![My Sql](https://img.shields.io/badge/-My%20Sql-05122A?style=flat&logo=Mysql)](https://www.mysql.com/)&nbsp;
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/)&nbsp;
 [![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)](https://expressjs.com/)&nbsp;
@@ -38,8 +38,8 @@
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
-[![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)](https://numpy.org/)&nbsp;
-[![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)&nbsp;
+[![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)](https://numpy.org/)&nbsp;
+[![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)](https://pandas.pydata.org/)&nbsp;
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)](https://colab.research.google.com/)&nbsp;
 [![Npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](https://www.npmjs.com/)&nbsp;
 [![pypi](https://img.shields.io/badge/-Pypi-05122A?style=flat&logo=pypi)](https://pypi.org)&nbsp;
