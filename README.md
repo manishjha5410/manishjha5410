@@ -40,7 +40,9 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
 [![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)](https://numpy.org/)&nbsp;
 [![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)&nbsp;
-
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)](https://colab.research.google.com/)&nbsp;
+[![Npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](https://www.npmjs.com/)&nbsp;
+[![pypi](https://img.shields.io/badge/-Pypi-05122A?style=flat&logo=pypi)](https://pypi.org)&nbsp;
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=manishjha5410&theme=tokyonight" alt="Manish Jha" />
