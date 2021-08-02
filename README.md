@@ -18,7 +18,7 @@
 <br>
 <h3 align="center">Languages and Tools</h3>
 
-<!--![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)-->
+[![Next Js](https://img.shields.io/badge/-Next%20Js-05122A?style=flat&logo=Next.Js)](https://nextjs.org/)&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.oracle.com/java/technologies/)&nbsp;
